@@ -1,15 +1,9 @@
-<h3 align="center">
-  <img src="assets/style_transfer_web.png" width="300">
-</h3>
-
-
 # Style Transfer
 
 Style Transfer is a process in which we strive to modify the style of an image while preserving its content. Given an input image and a style image, we can compute an output image with the original content but a new style.
 
-[Kaggle kernel](https://www.kaggle.com/greg115/style-transfer)
 
-Check out corresponding Medium article:
+Check out the Medium article on this:
 
 [Style Transfer - Styling Images with Convolutional Neural Networks](https://towardsdatascience.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461)
 
@@ -71,36 +65,5 @@ Check out corresponding Medium article:
 <h3>
   <img src="assets/15.png" width="500">
 </h3>
-
-## Other examples
-
-<h3>
-  <img src="assets/examples/naish.png">
-</h3>
-
-<h3>
-  <img src="assets/examples/sf.png">
-</h3>
-
-<h3>
-  <img src="assets/examples/boston.png">
-</h3>
-
-<h3>
-  <img src="assets/examples/dolores.png">
-</h3>
-
-## Author
-
-**Greg (Grzegorz) Surma**
-
-[**PORTFOLIO**](https://gsurma.github.io)
-
-[**GITHUB**](https://github.com/gsurma)
-
-[**BLOG**](https://medium.com/@gsurma)
-
-<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
-  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
-</a>
+[**GITHUB**](https://github.com/haresh121)
 
