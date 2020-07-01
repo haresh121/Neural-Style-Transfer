@@ -5,7 +5,7 @@ Style Transfer is a process in which we strive to modify the style of an image w
 
 Check out the Medium article on this:
 
-[Style Transfer - Styling Images with Convolutional Neural Networks](https://towardsdatascience.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461)
+[Neural Style Transfer - Style Transfer by CNN](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-neural-style-transfer-ef88e46697ee)
 
 <h3 align="center">
   <img src="assets/combined.png">
@@ -19,7 +19,6 @@ Check out the Medium article on this:
 	* **content loss** (distance between the input and output images - we strive to preserve the content)
 	* **style loss** (distance between the style and output images - we strive to apply a new style)
 	* **total variation loss** (regularization - spatial smoothness to denoise the output image)
-5. Finally, we set our gradients and optimize with the [L-BFGS](https://en.wikipedia.org/wiki/Limited-memory_BFGS) algorithm.
 
 # Results
 
@@ -42,11 +41,6 @@ Check out the Medium article on this:
 ### 1 iteration
 <h3>
   <img src="assets/1.png" width="500">
-</h3>
-
-### 2 iterations
-<h3>
-  <img src="assets/2.png" width="500">
 </h3>
 
 ### 5 iterations
