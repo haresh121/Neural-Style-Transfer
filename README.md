@@ -59,5 +59,5 @@ Check out the Medium article on this:
 <h3>
   <img src="assets/15.png" width="500">
 </h3>
-[**GITHUB**](https://github.com/haresh121)
+[GITHUB](https://github.com/haresh121)
 
